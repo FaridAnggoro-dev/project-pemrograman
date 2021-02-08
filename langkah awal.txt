@@ -1,5 +1,5 @@
 langkah awal
 -  ingin  membuat suatu  project
 -  ingin  mengembangkan  project
--  membuat vlog
--  mendesain 
+-  mendesain
+-  belajar  animasi
